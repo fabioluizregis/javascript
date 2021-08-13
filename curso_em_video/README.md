@@ -11,6 +11,6 @@
 
 - [Exercício 2](https://github.com/fabioluizregis/javascript/blob/master/curso_em_video/Aula%2006/ex002.html) - Concatenação
 
-- [Exercício 3](https://github.com/fabioluizregis/javascript/blob/master/curso_em_video/Aula%2006/ex003.htm) - Um pouco de conversão de tipos de dados
+- [Exercício 3](https://github.com/fabioluizregis/javascript/blob/master/curso_em_video/Aula06/ex003.html) - Um pouco de conversão de tipos de dados
 
-- [Exercício 4](https://github.com/fabioluizregis/javascript/blob/master/curso_em_video/Aula%2006/ex003.htm) - Algumas operações com String
+- [Exercício 4](https://github.com/fabioluizregis/javascript/blob/master/curso_em_video/Aula06/ex004.html) - Algumas operações com String
