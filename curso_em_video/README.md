@@ -14,3 +14,5 @@
 - [Exercício 3](https://github.com/fabioluizregis/javascript/blob/master/curso_em_video/Aula06/ex003.html) - Um pouco de conversão de tipos de dados
 
 - [Exercício 4](https://github.com/fabioluizregis/javascript/blob/master/curso_em_video/Aula06/ex004.html) - Algumas operações com String
+
+-[Exercício 5](https://github.com/fabioluizregis/javascript/blob/master/curso_em_video/Aula07/ex005.html) - Operadores Aritméticos
